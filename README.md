@@ -1,68 +1,78 @@
-## Your Name
+# Jack Leggett
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+📧 jwleggett@outlook.com | [LinkedIn](linkedin.com/in/jwleggett) | 📞 07596654511 | 📍 London, UK | [GitHub](https://github.com/jwleggett)
+
+---
+
+## Personal Profile
+
+An aspiring software engineer committed to professional development. Seeking opportunities to enhance current skillsets and acquire new transferable skills, particularly in DevOps and Agile practices. Confident communicator and creative problem solver. Proven ability to motivate, train, and manage teams.
+
+---
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Project        | Description                                                                                                                                                                                                           | Tech Stack                               | What I learned                                                                                                                                                                                               |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Studdy Buddy   | Studdy Buddy is a dynamic social website that enables users to create accounts, form and join study groups, and benefit from an AI assistant modeled after The Big Bang Theory's Sheldon Cooper.                           | MERN stack (MongoDB, Express, React, Node) | - Implementing AI using the OpenAI API and adapting responses with prompts. <br> - Enhancing application functionality with third-party libraries and packages. <br> - Collaborative planning and development within a group. <br> - Meeting project deadlines effectively. |
+| Moangoose      | Moangoose is a playful social website inspired by Facebook, challenging the perception that social media is solely for complaints. Users can create and delete accounts, as well as create, comment on, and like posts. | MERN stack (MongoDB, Express, React, Node) | - Introduction to CSS and working with the MERN stack. <br> - Understanding NoSQL concepts and performing CRUD operations using MongoDB. <br> - Handling routing, middleware, and server-side logic.                    |
+| Chitter        | Chitter is a full-stack web app inspired by Twitter, developed within a challenging timeline of just one week.                                                                                                      | Ruby Rails, HTML, SQL                     | - Testing and debugging. <br> - Handling HTTP requests. <br> - Working with SQL queries. <br> - Designing database schemas and relationships. <br> - Performing CRUD operations.                           |
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achieved in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevant to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevant to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevant to technology. Good examples clearly explain the impact you've had. 
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesized complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some online evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+---
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used pairing in order to problemsolve efficiently, requiring teamwork and communication.
-- You might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Makers Academy** | March 2023 - June 2023
+- Full Stack Software Development Bootcamp
+- A highly selective 16-week intensive course focused on Agile methodologies, object-oriented design, test-driven development, and pair programming.
 
-#### Your University / College (start_date to end_date)
+**CodeAcademy** | 2022
+- Ruby, JavaScript
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**Undergraduate Degree** | Oxford Brookes University | 2017 - 2020
+- Business and Management Degree Course, 2:1 with Honors.
+- Relevant modules focusing on technology and mathematics in business practice, financial application both locally and internationally, and the innovative and flexible nature of eBusiness.
 
-#### Any other qualifications
+**A-Levels** | The Royal Hospital School and MPW College
+- Economics (A), Business (B), and Psychology (C)
+- AS in Mathematics
 
-That in some arguable way make you a better software developer or well-rounded person
+---
 
-## Hobbies
+## Experience
 
-Any cool stuff that makes you a super part of a software development team
+**Haulage Logistics Coordinator and Irrigation Coordinator** | A.W. Mortier (Farms) Ltd. | 2014 - 2017, October 2020 - Present
+- Coordinated the logistics of up to 25 articulated lorries daily, managing strict time management and prioritization.
+- Implemented quality control measures, reducing rejected loads by 13%.
+- Designed and implemented an irrigation plan, resulting in an 8% increase in output.
+- Overhauled machinery, increasing irrigation output by 25% during prolonged dry periods.
+- Maintained a dependable and adaptable work ethic, often working over 70 hours a week.
+- Collaborated with a diverse team, sharing expertise and learning best practices.
+- Obtained Tele-Handler and Forklift Licenses to up-skill.
+
+**Online Clothing Reseller using sneaker bot software** | 2018 - Present
+- Developed strong discipline in high-end clothing resale, evaluating market trends and fostering an innovative mindset.
+- Proficient in bot software programs for enhancing business strategy.
+- Demonstrated financial proficiency with up to 400% markup.
+- Excellent communication and collaboration skills with vendors and customers.
+- Active participant in a reseller community, sharing expertise and learning about new software and programs.
+
+**Events Assistant to Senior Brands Activation Manager** | Greenalls Gin | May 2021 - September 2021
+- Provided end-to-end support for marketing processes and stock management.
+- Assisted in operational activities for large events, enhancing interpersonal skills.
+- Developed marketing strategies across social media platforms.
+
+**Brand Representative** | Opihr | August 2019 - September 2019
+- Increased brand awareness and promoted the brand at events such as the Cowes Sailing Regatta.
+- Created marketing content for Opihr's social media following.
+
+**Assistant to Head of Events** | Greene King | May 2018 - September 2019
+- Gained management experience through organizing and running marketing campaigns at events with large attendances.
+- Demonstrated attention to detail and a positive attitude in a fast-paced work environment.
+
+---
+
+## Qualifications and Achievements
+
+- CSIA Level 2 Ski Instructor, Level 1 Snow Park Instructor.
+- Achieved 11 belts in Karate over 8 years.
